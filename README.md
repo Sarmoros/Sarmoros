@@ -6,7 +6,6 @@
 
 ###
 
-<br>
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -42,7 +41,7 @@
 </div>
 
 ###
-<br>
+
 <h4>🤝 Connect with me</h4>
 
 <div align="left">
