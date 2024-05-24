@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! I'm Sarahy </h2> 
 
 ###
-
+<img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif?cid=790b76116uwyxeyf9d0y0qoa6mrfg4ysoenz2j6ibibxsolr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <p align="left">🖥️ I'm a Software Engineer <br>🌴 I am from Miami, FL <br> 📫 How to reach me sarahym0703@gmail.com <br>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif?cid=790b76116uwyxeyf9d0y0qoa6mrfg4ysoenz2j6ibibxsolr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
 
